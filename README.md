@@ -32,3 +32,4 @@ Create a `.env` file in the project root and add your environment variables.
 
 6. **Open in Your Browser:**
 The application should now be running at [http://localhost:3000](http://localhost:3000).
+44
